@@ -10,18 +10,20 @@
     <img align="right" alt="hi" height="235" width="235" style="inline_block"
     src="https://media.discordapp.net/attachments/825083228930703370/1139169904130543727/andrew.gif?width=701&height=701">
     <h1 align="left">Main skills</h1>
-    <img align="left" alt="html-icon"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="left" alt="html-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="left" alt="css-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="left" alt="sass-icon" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img align="left" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="left" alt="ts-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="left" alt="c-icon" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="left" alt="c++-icon" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img align="left" alt="c++-icon" padding-bottom="42px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <h1 align="left" >Studying in this moment:</h1>
+    <img align="left" alt="py-icon" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="left" alt="react-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="left" alt="svelte-icon" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
+    <img align="left" alt="vue-icon" padding-bottom="50px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
    </div>
 
-   <div>
-     <h1 align="left">Studying in this moment:</h1>
-   </div>
 
 
 
