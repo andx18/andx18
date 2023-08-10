@@ -6,8 +6,23 @@
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andx18&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=22272e" alt="André Macuco github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andx18&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=22272e"/></div>
 
-<div>
-  <img align="right" alt="hi" height="140" width="140" style="inline_block"
+<div  align="center"> 
+    <img align="right" alt="hi" height="235" width="235" style="inline_block"
     src="https://media.discordapp.net/attachments/825083228930703370/1139169904130543727/andrew.gif?width=701&height=701">
-  <h2 dir="auto" width="100%"></h2>
-</div>
+    <h1 align="left">Main skills</h1>
+    <img align="left" alt="html-icon"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img align="left" alt="css-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img align="left" alt="sass-icon" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+    <img align="left" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img align="left" alt="ts-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img align="left" alt="c-icon" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img align="left" alt="c++-icon" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   </div>
+
+   <div>
+     <h1 align="left">Studying in this moment:</h1>
+   </div>
+
+
+
+   
