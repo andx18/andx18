@@ -8,7 +8,7 @@
 </div>
 
 <div  align="center"> 
-    <img align="right" alt="hi" height="230" width="230" style="inline_block"
+    <img align="right" alt="hi" height="160" width="160" style="inline_block"
     src="https://media.discordapp.net/attachments/825083228930703370/1139169904130543727/andrew.gif?width=701&height=701">
     <h1 align="left">Main skills</h1>
     <img align="left" alt="html-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
