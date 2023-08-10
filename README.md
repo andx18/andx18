@@ -8,7 +8,7 @@
 </div>
 
 <div  align="center"> 
-    <img align="right" alt="hi" height="130" width="130" style="inline_block"
+    <img align="right" alt="hi" height="150" width="150" style="inline_block"
     src="https://media.discordapp.net/attachments/825083228930703370/1139169904130543727/andrew.gif?width=701&height=701">
     <h1 align="left">Main skills</h1>
     <img align="left" alt="html-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,7 +16,6 @@
     <img align="left" alt="sass-icon" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img align="left" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="left" alt="ts-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img align="left" alt="c-icon" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img align="left" alt="c++-icon" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
