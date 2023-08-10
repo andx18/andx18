@@ -4,7 +4,8 @@
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andx18&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=22272e" alt="André Macuco github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andx18&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=22272e"/></div>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andx18&layout=compact&hide_border=true&title_color=6495ED&text_color=6495ED&bg_color=22272e"/>
+</div>
 
 <div  align="center"> 
     <img align="right" alt="hi" height="235" width="235" style="inline_block"
@@ -16,15 +17,21 @@
     <img align="left" alt="js-icon" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="left" alt="ts-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     <img align="left" alt="c-icon" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    <img align="left" alt="c++-icon" padding-bottom="42px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img align="left" alt="c++-icon" padding-bottom="45px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <h1 align="left" >Studying in this moment:</h1>
     <img align="left" alt="py-icon" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="left" alt="react-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="left" alt="svelte-icon" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00">
-    <img align="left" alt="vue-icon" padding-bottom="50px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-   </div>
+    <img align="left" alt="vue-icon" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+</div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andx18&bg_color=22272e&color=6495ED&line=4169E1&point=0000CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{andx18}/count.svg"/></p> 
+<br>
+</div>
 
    
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=footer"/>
