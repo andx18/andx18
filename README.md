@@ -22,6 +22,11 @@
     <img align="left" alt="c++-icon" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <br>
     <h1 align="left">Studying in this moment:</h1>
+    <img align="left" alt="python-icon" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+    <img align="left" alt="node-icon" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="left" alt="react-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img align="left" alt="vue-icon" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
+    <img align="left" alt="angular-icon" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andx18&bg_color=22272e&color=6495ED&line=4169E1&point=0000CD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
