@@ -10,7 +10,7 @@
 <div  align="center"> 
     <img align="right" alt="hi" height="150" width="150" style="inline_block"
     src="https://media.discordapp.net/attachments/825083228930703370/1139169904130543727/andrew.gif?width=701&height=701">
-    <h1 align="left" padding-bottom="50px">Main skills</h1>
+    <h1 align="left">Main skills</h1>
     <img align="left" alt="html-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="left" alt="css-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="left" alt="sass-icon" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
